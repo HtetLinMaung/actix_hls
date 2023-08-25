@@ -4,7 +4,7 @@
 
 First, make sure you have Rust, Cargo, and ffmpeg installed.
 
-- Install Rust and Cargo from (Rust's official site)[https://www.rust-lang.org/].
+- Install Rust and Cargo from [Rust's official site](https://www.rust-lang.org/).
 - You can typically install `ffmpeg` using a package manager. For instance, on macOS, you'd use `brew install ffmpeg`.
 
 2. `Create a new Rust project`:
